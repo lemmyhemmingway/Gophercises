@@ -1,8 +1,8 @@
 #### Gophercises 
 
-<img src="morning-coffee.gif">
 
-[Exercises](https://courses.calhoun.io/courses)
+
+[<img src="morning-coffee.gif">](https://courses.calhoun.io/courses)
 <table>
     <thead>
     <tr>
@@ -82,8 +82,7 @@
         <tr>
             <td>Building PDFs</td>
             <td></td>
-        </tr>
-        
+        </tr>     
     </tbody>
 </table>
 
